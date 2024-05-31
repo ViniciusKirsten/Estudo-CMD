@@ -1,0 +1,60 @@
+### Módulo 1: Introdução ao CMD e Comandos Básicos
+1. Introdução ao CMD
+   - Visão geral do Command Prompt
+   - Abrindo o CMD no Windows
+
+2. Navegação de Diretórios
+   - Comando cd
+   - Comando dir
+   - Comando mkdir
+
+3. Manipulação de Arquivos e Diretórios
+   - Comando del
+   - Comando copy
+   - Comando move
+
+### Módulo 2: Tarefas de Sistema e Rede
+1. Gestão de Processos
+   - Comando tasklist
+   - Comando taskkill
+
+2. Configuração de Rede
+   - Comando ipconfig
+   - Comando ping
+   - Comando tracert
+
+### Módulo 3: Personalização e Automação
+1. Personalização do Prompt
+   - Mudando cores e fontes
+   - Criando alias para comandos
+
+2. Scripts e Automatização
+   - Introdução aos scripts batch
+   - Execução de scripts
+
+### Módulo 4: Segurança e Administração
+1. Controle de Contas de Usuário
+   - Comando net user
+   - Comando net group
+
+2. Backup e Restauração
+   - Comando xcopy
+   - Comando robocopy
+
+### Módulo 5: Avançado e Tópicos Especiais
+1. Redirecionamento e Pipes
+   - Redirecionamento de entrada e saída
+   - Uso de pipes
+
+2. PowerShell e CMD
+   - Introdução ao PowerShell
+   - Integração com o CMD
+
+### Módulo 6: Solução de Problemas
+1. Diagnóstico e Solução de Problemas
+   - Identificação de problemas comuns
+   - Solução de problemas de rede
+
+2. Recuperação de Sistema
+   - Restauração do sistema via CMD
+   - Recuperação de arquivos perdidos
